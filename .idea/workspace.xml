@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43be5fc3-c793-4cfc-a546-418bedfd3ab7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exploration.ipynb" afterPath="$PROJECT_DIR$/exploration.ipynb" />
     </list>
     <list id="8c0dd8ae-0b31-4c89-9e5c-7bee41f07a21" name="Predicton" comment="" />
     <ignored path="Titanic.iws" />
@@ -295,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1476053855572</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="More approaches to prediction and visualization">
+      <created>1476054066546</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1476054066546</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
