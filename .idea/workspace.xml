@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43be5fc3-c793-4cfc-a546-418bedfd3ab7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/genderclassmodel.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/genderclassmodel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gendermodel.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gendermodel.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exploration.ipynb" afterPath="$PROJECT_DIR$/exploration.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prediction.csv" afterPath="$PROJECT_DIR$/prediction.csv" />
@@ -24,21 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="genderclassmodel.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/genderclassmodel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="exploration.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exploration.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="37" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -94,7 +88,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,6 +108,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1475960931480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Better data visualization">
+      <created>1475976260038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1475976260038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -315,29 +316,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="More mining tools" />
-    <option name="LAST_COMMIT_MESSAGE" value="More mining tools" />
+    <MESSAGE value="Better data visualization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Better data visualization" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/genderclassmodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/exploration.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genderclassmodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
+    <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
     <entry file="file://$PROJECT_DIR$/myfirstforest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
@@ -352,14 +347,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genderclassmodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
     <entry file="file://$PROJECT_DIR$/myfirstforest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
@@ -374,14 +362,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genderclassmodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
     <entry file="file://$PROJECT_DIR$/myfirstforest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
@@ -396,27 +377,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gendermodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/genderclassmodel.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gendermodel.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/genderclassmodel.csv" />
+    <entry file="file://$PROJECT_DIR$/gendermodel.csv" />
     <entry file="file://$PROJECT_DIR$/train.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -446,20 +408,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/genderclassmodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="37" />
+          <selected id="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gendermodel.py" />
+    <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
   </component>
 </project>
