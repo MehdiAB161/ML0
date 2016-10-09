@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43be5fc3-c793-4cfc-a546-418bedfd3ab7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/genderclassmodel.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/genderclassmodel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gendermodel.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gendermodel.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exploration.ipynb" afterPath="$PROJECT_DIR$/exploration.ipynb" />
+    </list>
+    <list id="8c0dd8ae-0b31-4c89-9e5c-7bee41f07a21" name="Predicton" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prediction.csv" afterPath="$PROJECT_DIR$/prediction.csv" />
     </list>
     <ignored path="Titanic.iws" />
@@ -88,6 +86,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,7 +107,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,6 +256,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="43be5fc3-c793-4cfc-a546-418bedfd3ab7" name="Default" comment="" />
+      <changelist id="8c0dd8ae-0b31-4c89-9e5c-7bee41f07a21" name="Predicton" comment="" />
       <created>1475888186491</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -277,14 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1475976260038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Better data visualization">
+      <created>1476011560433</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476011560433</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -318,12 +324,20 @@
     <MESSAGE value="More mining tools" />
     <MESSAGE value="Better data visualization" />
     <option name="LAST_COMMIT_MESSAGE" value="Better data visualization" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exploration.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
