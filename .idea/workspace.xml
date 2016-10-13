@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43be5fc3-c793-4cfc-a546-418bedfd3ab7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exploration.ipynb" afterPath="$PROJECT_DIR$/exploration.ipynb" />
     </list>
     <list id="8c0dd8ae-0b31-4c89-9e5c-7bee41f07a21" name="Predicton" comment="" />
     <ignored path="Titanic.iws" />
@@ -27,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/exploration.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="53" />
+              <selected id="-1" />
             </state>
           </provider>
         </entry>
@@ -82,8 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -104,6 +103,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,14 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1476054066546</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="More approaches to prediction and visualization">
+      <created>1476054073740</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1476054073740</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -366,13 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
     <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
-    <entry file="file://$PROJECT_DIR$/myfirstforest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/myfirstforest.py" />
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -381,13 +383,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
-    <entry file="file://$PROJECT_DIR$/myfirstforest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/myfirstforest.py" />
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -396,13 +392,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
-    <entry file="file://$PROJECT_DIR$/myfirstforest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/myfirstforest.py" />
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -427,20 +417,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/df.csv" />
-    <entry file="file://$PROJECT_DIR$/prediction.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myfirstforest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/prediction.csv" />
+    <entry file="file://$PROJECT_DIR$/myfirstforest.py" />
     <entry file="file://$PROJECT_DIR$/gendermodel.py" />
     <entry file="file://$PROJECT_DIR$/genderclassmodel.py" />
     <entry file="file://$PROJECT_DIR$/exploration.ipynb">
